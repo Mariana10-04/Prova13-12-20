@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+}
+.container-footer{
+    display: flex;
+    padding: 1vw 5vw;
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+    justify-content: space-between;
+}
+
+.container-footer img{
+    height: 2vw;
+    padding: 0 0.5vw;
+}
